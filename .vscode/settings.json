@@ -1,0 +1,8 @@
+{
+    "maven.view": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": false,
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        ""
+    ]
+}

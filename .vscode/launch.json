@@ -1,0 +1,366 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PriorityQueueExample",
+            "request": "launch",
+            "mainClass": "hospital.PriorityQueueExample",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch student_marks",
+            "request": "launch",
+            "mainClass": "student_marks",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch finally_program",
+            "request": "launch",
+            "mainClass": "exception_handling.finally_program",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionThrown",
+            "request": "launch",
+            "mainClass": "exception_handling.ExceptionThrown",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch throws_keyword",
+            "request": "launch",
+            "mainClass": "file_handling_programs.throws_keyword",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch try_catch_finally",
+            "request": "launch",
+            "mainClass": "exception_handling.try_catch_finally",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "thread_programs.demo",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch PCFixed",
+            "request": "launch",
+            "mainClass": "thread_programs.PCFixed",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synch",
+            "request": "launch",
+            "mainClass": "thread_programs.Synch",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_thread",
+            "request": "launch",
+            "mainClass": "thread_programs.count_thread",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadDemo",
+            "request": "launch",
+            "mainClass": "thread_programs.MultiThreadDemo",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "thread_programs.Test",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_dequeue",
+            "request": "launch",
+            "mainClass": "Collections.array_dequeue",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch book_hashset",
+            "request": "launch",
+            "mainClass": "Collections.book_hashset",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylist_java",
+            "request": "launch",
+            "mainClass": "Collections.Arraylist_java",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch generic_queue",
+            "request": "launch",
+            "mainClass": "generics.generic_queue",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch library",
+            "request": "launch",
+            "mainClass": "file_handling_programs.library",
+            "projectName": "java_14181898",
+            "args": "file"
+        },
+        {
+            "type": "java",
+            "name": "Launch Treeset",
+            "request": "launch",
+            "mainClass": "Collections.Treeset",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetExample",
+            "request": "launch",
+            "mainClass": "Collections.TreeSetExample",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch serialize_deserialize",
+            "request": "launch",
+            "mainClass": "Collections.serialize_deserialize",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "generics.Main",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFileInputStreamgetFDExample1",
+            "request": "launch",
+            "mainClass": "file_handling_programs.JavaFileInputStreamgetFDExample1",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileReader_Writer_Example",
+            "request": "launch",
+            "mainClass": "file_handling_programs.FileReader_Writer_Example",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowFile",
+            "request": "launch",
+            "mainClass": "file_handling_programs.ShowFile",
+            "projectName": "java_14181898",
+            "args": "output.txt"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "file_handling_programs.Main",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "file_handling_programs.FileOutputStreamExample",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch TinyEdit",
+            "request": "launch",
+            "mainClass": "file_handling_programs.TinyEdit",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch string_funct",
+            "request": "launch",
+            "mainClass": "strings.string_funct",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch generic_queue",
+            "request": "launch",
+            "mainClass": "generic_queue",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch thread_sync",
+            "request": "launch",
+            "mainClass": "thread_programs.thread_sync",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch mythreads_exec",
+            "request": "launch",
+            "mainClass": "thread_programs.mythreads_exec",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch mythread2_exec",
+            "request": "launch",
+            "mainClass": "thread_programs.mythread2_exec",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch mythread1_exec",
+            "request": "launch",
+            "mainClass": "thread_programs.mythread1_exec",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProtectedDemo",
+            "request": "launch",
+            "mainClass": "dpack.ProtectedDemo",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch students_mrks",
+            "request": "launch",
+            "mainClass": "students_mrks",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch diistance",
+            "request": "launch",
+            "mainClass": "diistance",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch employee",
+            "request": "launch",
+            "mainClass": "employee",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1",
+            "request": "launch",
+            "mainClass": "mypack.demo1",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd_nums",
+            "request": "launch",
+            "mainClass": "odd_nums",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch overloading",
+            "request": "launch",
+            "mainClass": "overloading",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch retail",
+            "request": "launch",
+            "mainClass": "retail",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch shapedriver",
+            "request": "launch",
+            "mainClass": "shapedriver",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "java_14181898"
+        },
+        {
+            "type": "java",
+            "name": "Launch temperature",
+            "request": "launch",
+            "mainClass": "temperature",
+            "projectName": "java_14181898"
+        }
+    ]
+}
